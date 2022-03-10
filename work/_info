@@ -1,0 +1,257 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/gam3a/courses/ieee/mips/mips
+vadder
+Z1 !s110 1646845762
+!i10b 1
+!s100 gMTNAnQ]i:Rc7z7`HD3R[3
+InCdK;jKoii0ZGD_=OjMVg1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1646661301
+8adder.v
+Fadder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1646845761.000000
+Z5 !s107 TopModule.v|SignExtend.v|shift_left_twice.v|Register.v|pc.v|mux.v|Inst_Mem.v|Data_Mem.v|DataPath.v|controlunit.v|ALU.v|adder.v|
+Z6 !s90 adder.v|ALU.v|controlunit.v|DataPath.v|Data_Mem.v|Inst_Mem.v|mux.v|pc.v|Register.v|shift_left_twice.v|SignExtend.v|TopModule.v|
+!i113 1
+Z7 tCvgOpt 0
+vALU
+R1
+!i10b 1
+!s100 ^6I0XVK14cQSB[PTlDPb>3
+IoXLZe@1aP6k^CHQ@EB1@12
+R2
+R0
+w1646770748
+8ALU.v
+FALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@a@l@u
+vcontrolunit
+R1
+!i10b 1
+!s100 ^M>d22XS:N1dbAj5<oKUd3
+IfYJQ:UNKz`HVMeAW=;m?Y2
+R2
+R0
+w1646662036
+8controlunit.v
+Fcontrolunit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vData_Mem
+R1
+!i10b 1
+!s100 jkSgS:T63`;[QAjEQXW1b1
+Im<:Mb0^n_KSNTYVi7dIKz2
+R2
+R0
+w1646770736
+8Data_Mem.v
+FData_Mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@data_@mem
+vDataPath
+R1
+!i10b 1
+!s100 KddZEMFo5Y^V0kSzOZEdH0
+IaR5knVTEgz<^3:35bAOOW1
+R2
+R0
+w1646662298
+8DataPath.v
+FDataPath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@data@path
+vInst_Mem
+R1
+!i10b 1
+!s100 HSEaWe<[L82g`NS62;BLz3
+IAgkJBBeSc=<f_X=g3o[@f0
+R2
+R0
+w1646750790
+8Inst_Mem.v
+FInst_Mem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@inst_@mem
+vmux
+R1
+!i10b 1
+!s100 0gP44fb;b3O`b20VF9C3Z1
+ID:LmBe?T75m4NeJniJfSl2
+R2
+R0
+w1646662052
+8mux.v
+Fmux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vpc
+R1
+!i10b 1
+!s100 B]ePiEQ6<_:eeST9m?gRD1
+IU5nnYO[36^z_OS^FE=o4N0
+R2
+R0
+w1646662057
+8pc.v
+Fpc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vRegister
+R1
+!i10b 1
+!s100 5LNd62m0JEeKoe_dNYOAh1
+IIWM5`Wm[I`jkX`=QlS1zW3
+R2
+R0
+w1646770718
+8Register.v
+FRegister.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@register
+vshift_left_twice
+R1
+!i10b 1
+!s100 LYF<7Y6UOXCO@eDCjBW4d3
+IG7TkT8FUIn_;;;31CjHBR0
+R2
+R0
+w1646662062
+8shift_left_twice.v
+Fshift_left_twice.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vSignExtend
+R1
+!i10b 1
+!s100 dLUl6MS481@9oS`=Qc2:V3
+Iek[bkD9@i2CNfN@dmd6_O3
+R2
+R0
+w1646661819
+8SignExtend.v
+FSignExtend.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@sign@extend
+vTopModule
+R1
+!i10b 1
+!s100 cJ`oXMB?7ecB^oMIz7WjM2
+Ieh9z_Pj4PnN_Md?7hgkcc1
+R2
+R0
+w1646662099
+8TopModule.v
+FTopModule.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@top@module

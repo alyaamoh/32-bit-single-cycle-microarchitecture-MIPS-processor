@@ -1,0 +1,78 @@
+# vsim work.TopModule 
+# Start time: 19:09:44 on Mar 09,2022
+# Loading work.TopModule
+# Loading work.controlunit
+# Loading work.DataPath
+# Loading work.mux
+# Loading work.Register
+# Loading work.SignExtend
+# Loading work.ALU
+# Loading work.adder
+# Loading work.shift_left_twice
+# Loading work.pc
+# Loading work.Inst_Mem
+# Loading work.Data_Mem
+add wave -position insertpoint  \
+sim:/TopModule/CLK \
+sim:/TopModule/rst \
+sim:/TopModule/test_value
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Daly  Hostname: DESKTOP-HHUSP20  ProcessID: 6572
+#           Attempting to use alternate WLF file "./wlft7csw5a".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft7csw5a
+force -freeze sim:/TopModule/CLK 1 0, 0 {50 ps} -r 100
+force -freeze sim:/TopModule/rst 1 0
+run
+force -freeze sim:/TopModule/rst St0 0
+run
+force -freeze sim:/TopModule/rst St1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 19:11:32 on Mar 09,2022, Elapsed time: 0:01:48
+# Errors: 0, Warnings: 2
