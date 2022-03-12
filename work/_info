@@ -9,21 +9,21 @@ z2
 cModel Technology
 Z0 dD:/gam3a/courses/ieee/mips/mips
 vadder
-Z1 !s110 1646845762
+Z1 !s110 1647092213
 !i10b 1
-!s100 gMTNAnQ]i:Rc7z7`HD3R[3
-InCdK;jKoii0ZGD_=OjMVg1
+!s100 AnWBKCFm^N1R5hjUjEPFC3
+IBfcCWF4HfUI617QO]a:321
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 R0
-w1646661301
+w1647091499
 8adder.v
 Fadder.v
-L0 1
+L0 8
 Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1646845761.000000
+Z4 !s108 1647092213.000000
 Z5 !s107 TopModule.v|SignExtend.v|shift_left_twice.v|Register.v|pc.v|mux.v|Inst_Mem.v|Data_Mem.v|DataPath.v|controlunit.v|ALU.v|adder.v|
 Z6 !s90 adder.v|ALU.v|controlunit.v|DataPath.v|Data_Mem.v|Inst_Mem.v|mux.v|pc.v|Register.v|shift_left_twice.v|SignExtend.v|TopModule.v|
 !i113 1
@@ -31,14 +31,14 @@ Z7 tCvgOpt 0
 vALU
 R1
 !i10b 1
-!s100 ^6I0XVK14cQSB[PTlDPb>3
-IoXLZe@1aP6k^CHQ@EB1@12
+!s100 ll=AmznDnb6Cg55abOhfU3
+IifVY5z2R3:m2j9NBK`==31
 R2
 R0
-w1646770748
+w1647091538
 8ALU.v
 FALU.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -52,14 +52,14 @@ n@a@l@u
 vcontrolunit
 R1
 !i10b 1
-!s100 ^M>d22XS:N1dbAj5<oKUd3
-IfYJQ:UNKz`HVMeAW=;m?Y2
+!s100 :2Mf:lmGbjnBY>Tg@TA:40
+ITYg]M=ZTYV<B21jccY6LN1
 R2
 R0
-w1646662036
+w1647091793
 8controlunit.v
 Fcontrolunit.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -72,14 +72,14 @@ R7
 vData_Mem
 R1
 !i10b 1
-!s100 jkSgS:T63`;[QAjEQXW1b1
-Im<:Mb0^n_KSNTYVi7dIKz2
+!s100 R8fO?N8n7Yn53X7@DnA411
+IY[Im=3^=]RdHP;o;^egSe3
 R2
 R0
-w1646770736
+w1647091909
 8Data_Mem.v
 FData_Mem.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -93,14 +93,14 @@ n@data_@mem
 vDataPath
 R1
 !i10b 1
-!s100 KddZEMFo5Y^V0kSzOZEdH0
-IaR5knVTEgz<^3:35bAOOW1
+!s100 W811EFd669JLQ;GYmL0^b2
+If:iz<:Nh0]I<iXA>9JAgP2
 R2
 R0
-w1646662298
+w1647091929
 8DataPath.v
 FDataPath.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -114,14 +114,14 @@ n@data@path
 vInst_Mem
 R1
 !i10b 1
-!s100 HSEaWe<[L82g`NS62;BLz3
-IAgkJBBeSc=<f_X=g3o[@f0
+!s100 gfT3V[DNmnzOgNY]mXSd80
+I8@S=cD=QRI7@2fNLcZ8h_3
 R2
 R0
-w1646750790
+w1647092210
 8Inst_Mem.v
 FInst_Mem.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -135,14 +135,14 @@ n@inst_@mem
 vmux
 R1
 !i10b 1
-!s100 0gP44fb;b3O`b20VF9C3Z1
-ID:LmBe?T75m4NeJniJfSl2
+!s100 N67ZHSImjlGZM?_Edm:GF2
+INl><8?h<E1oBn5=<fLG7E2
 R2
 R0
-w1646662052
+w1647092019
 8mux.v
 Fmux.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -155,14 +155,14 @@ R7
 vpc
 R1
 !i10b 1
-!s100 B]ePiEQ6<_:eeST9m?gRD1
-IU5nnYO[36^z_OS^FE=o4N0
+!s100 Tk:Ue`O5V4XC^Vj5E?]3H3
+IfAzUbOFgbC;0[<6eiQN_43
 R2
 R0
-w1646662057
+w1647092043
 8pc.v
 Fpc.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -175,14 +175,14 @@ R7
 vRegister
 R1
 !i10b 1
-!s100 5LNd62m0JEeKoe_dNYOAh1
-IIWM5`Wm[I`jkX`=QlS1zW3
+!s100 dR`?8U0`j3h_m>D_OIe:l3
+I`_Rm7@0iiT9^0^fZZZ>:J1
 R2
 R0
-w1646770718
+w1647092070
 8Register.v
 FRegister.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -196,14 +196,14 @@ n@register
 vshift_left_twice
 R1
 !i10b 1
-!s100 LYF<7Y6UOXCO@eDCjBW4d3
-IG7TkT8FUIn_;;;31CjHBR0
+!s100 EI=KOXP_lNe;bg2Z4Kdnc3
+I?[CN9mI_oQjSc6T:Ah0Fz2
 R2
 R0
-w1646662062
+w1647092102
 8shift_left_twice.v
 Fshift_left_twice.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -216,14 +216,14 @@ R7
 vSignExtend
 R1
 !i10b 1
-!s100 dLUl6MS481@9oS`=Qc2:V3
-Iek[bkD9@i2CNfN@dmd6_O3
+!s100 A50Aj5oC59Zm5[DgfL:Y`0
+IPjffTlofc;M[>Sf>4kP_10
 R2
 R0
-w1646661819
+w1647092124
 8SignExtend.v
 FSignExtend.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
@@ -237,14 +237,14 @@ n@sign@extend
 vTopModule
 R1
 !i10b 1
-!s100 cJ`oXMB?7ecB^oMIz7WjM2
-Ieh9z_Pj4PnN_Md?7hgkcc1
+!s100 l>NmWz:=724@@iNTmhkS60
+IUcBbe<hjaS_Mi6[[:El4m2
 R2
 R0
-w1646662099
+w1647092176
 8TopModule.v
 FTopModule.v
-L0 1
+L0 8
 R3
 r1
 !s85 0
